@@ -1,7 +1,7 @@
 # NGS filemerger for Archer files
 
 This application allows you to merge the files you need based on the sample and R number 
-The comments in the code are in Icelandic since this was made to help my lab back home to save some time in manual labour 
+The comments in the code are in Icelandic since this was made to help my lab back home to save some time in manual labour.
 
 
 # How to use: 
@@ -11,4 +11,4 @@ The comments in the code are in Icelandic since this was made to help my lab bac
 
 2. Wait...
 
-3. Should display what files were merged together and if they did so successfully
+3. Should display what files were merged together and if they did so successfully.
