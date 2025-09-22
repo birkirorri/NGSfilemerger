@@ -1,5 +1,5 @@
 # NGSfilemerger
-This application allows you to merge the files yo need based on the sample and R number. 
+This application allows you to merge the files you need based on the sample and R number. 
 The comments in the code are in Icelandic since this was made to help my lab save time in their work (which were all icelandic) 
 
 
