@@ -6,11 +6,9 @@ The comments in the code are in Icelandic since this was made to help my lab bac
 
 # How to use: 
 
-## 1
-Run the exe file (or the py) and choose the folder where all the files are where you want them to merge together.
 
-## 2 
-Wait...
+1. Run the exe file (or the py) and choose the folder where all the files are where you want them to merge together.
 
-## 3 
-Should display what files were merged together and if they did so successfully
+2. Wait...
+
+3. Should display what files were merged together and if they did so successfully
